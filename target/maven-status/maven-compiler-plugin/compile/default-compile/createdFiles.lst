@@ -1,9 +1,0 @@
-com/wu/era/library/logger/WUCustomLogger.class
-com/wu/era/library/wrapper/WuContentCachingResponseWrapper$CachingServletOutputStream.class
-com/wu/era/library/layout/SimpleJSONLayout.class
-META-INF/org/apache/logging/log4j/core/config/plugins/Log4j2Plugins.dat
-com/wu/era/library/config/EraLoggingAutoConfiguration.class
-com/wu/era/library/filter/AppRequestFilter.class
-com/wu/era/library/config/LogLevelConfig.class
-com/wu/era/library/config/LogLevelConfig$LogLevelConfigurer.class
-com/wu/era/library/wrapper/WuContentCachingResponseWrapper.class

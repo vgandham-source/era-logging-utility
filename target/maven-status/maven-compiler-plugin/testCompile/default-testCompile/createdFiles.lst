@@ -1,6 +1,0 @@
-com/wu/era/library/logger/WUCustomLoggerTest.class
-com/wu/era/library/filter/AppRequestFilterTest.class
-com/wu/era/library/config/LogLevelConfigTest.class
-com/wu/era/library/wrapper/WuContentCachingResponseWrapperTest.class
-com/wu/era/library/layout/SimpleJSONLayoutTest.class
-com/wu/era/library/config/EraLoggingAutoConfigurationTest.class
