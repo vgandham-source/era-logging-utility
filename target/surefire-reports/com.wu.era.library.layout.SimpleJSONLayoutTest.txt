@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wu.era.library.layout.SimpleJSONLayoutTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in com.wu.era.library.layout.SimpleJSONLayoutTest
